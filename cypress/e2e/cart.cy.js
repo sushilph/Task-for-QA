@@ -2,7 +2,7 @@
 describe('Add to Cart Test', () => {
 
   beforeEach(() => {
-    cy.visit('/')
+    cy.visit('https://www.saucedemo.com/')
     cy.fixture('users').then(user => {
       cy.login(user.validUser.username, user.validUser.password)
     })
