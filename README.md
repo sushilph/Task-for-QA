@@ -61,17 +61,17 @@ README.md
 ## ⚙️ Setup Instructions
 
 1️⃣ Prerequisites
-Node.js (v16 or higher recommended)
+Node.js (v16 or higher recommended)  
 npm installed
 
-2️⃣ Install Dependencies
+2️⃣ Install Dependencies  
 npm install
 
-## ▶️ How to Run Tests
-Open Cypress Test Runner (Interactive Mode)
+## ▶️ How to Run Tests  
+Open Cypress Test Runner (Interactive Mode)  
 npx cypress open
 
-Run Tests in Headless Mode
+Run Tests in Headless Mode  
 npx cypress run
 
 
